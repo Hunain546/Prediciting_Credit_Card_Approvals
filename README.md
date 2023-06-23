@@ -10,7 +10,7 @@ The dataset used in this project is sourced from datacamp. It contains informati
 
 The project repository is organized as follows:
 
-- `datasets/`: Directory containing the credit card approval dataset
+- `dataset/`: Directory containing the credit card approval dataset
 - `README.md`: Readme file providing an overview of the project
 - `credit_card_approval.ipynb`: Jupyter Notebook file containing the project code and analysis
 
